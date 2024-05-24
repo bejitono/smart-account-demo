@@ -1,0 +1,3 @@
+
+// Keep this namespace, even when empty - otherwise binding generation will throw an error!
+namespace smart_account_demo {  };
